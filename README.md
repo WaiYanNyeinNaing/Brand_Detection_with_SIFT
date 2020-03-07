@@ -2,7 +2,7 @@
 Brand_Detection_with_SIFT_Feature Matching
 
 
-Computer Vision , Image Processing 
+Computer Vision , Image Processing. 
 
 # Requirements:
 
