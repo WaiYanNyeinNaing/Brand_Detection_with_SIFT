@@ -10,3 +10,5 @@ Computer Vision , Image Processing.
 
 - numpy
 
+
+![Screenshot](result_sayarkho.png)
