@@ -11,4 +11,4 @@ Computer Vision , Image Processing.
 - numpy
 
 
-![Screenshot](result_sayarkho.png)
+![Screenshot](result_linz.png)
