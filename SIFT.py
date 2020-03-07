@@ -1,10 +1,10 @@
 import numpy as np
 import cv2
 
-input_img = 'linze1.jpg'
+input_img = 'image/linze1.jpg'
 
 img1 = cv2.imread(input_img, 0)          # query Image
-img2 = cv2.imread('template_linze.jpg',0)      # target Image
+img2 = cv2.imread('template/template_linze.jpg',0)      # target Image
 
 #sift
 sift = cv2.xfeatures2d.SIFT_create()
