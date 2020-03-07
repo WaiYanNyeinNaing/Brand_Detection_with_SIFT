@@ -4,9 +4,9 @@ Brand_Detection_with_SIFT_Feature Matching
 
 Computer Vision , Image Processing 
 
-Requirement:
+# Requirement:
 
-opencv
+- opencv
 
-numpy
+- numpy
 
